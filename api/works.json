@@ -1,0 +1,18 @@
+[
+  {
+    "title": "企业介绍视频",
+    "description": "一个企业的介绍",
+    "category": "视频",
+    "type": "video",
+    "fileToken": "ZbWIbQJ8FonY2kxVPVXcFbqrnZc",
+    "coverUrl": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=NTk4Mjk3YTUyZTNmNmFmMDIxNTQ2ZWUwODI5M2FmOTJfZjAwZTQ5NTU1NTUwYmI5OTZjOTFmZjk2ZTI3MjQ3OGJfSUQ6NzYyNjAxMjAyNzA2NDA3NzUzMV8xNzc1NjY2NTIwOjE3NzU3NTI5MjBfVjM"
+  },
+  {
+    "title": "一个设计的案例",
+    "description": "设计案例",
+    "category": "图片",
+    "type": "image",
+    "fileToken": "BoFjbHYGLocw3wxFqHPc4HRAnMg",
+    "coverUrl": "https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTAxMWYwMWJiMmNlOGNhNWEzMmEzZGU5N2U5ZjBlMDhfMzBkZmYzODNjYjUwY2E3MmEyYmE2Mjk1YWFiNGQwNWJfSUQ6NzYyNjAxMjE3MDE5NDY4NTEyN18xNzc1NjY2NTg4OjE3NzU3NTI5ODhfVjM"
+  }
+]
